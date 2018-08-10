@@ -1,368 +1,432 @@
-#EXTINF:-1,US_A&E HD
-http://188.165.242.189:8005/live/papa/papa/668.ts
-#EXTINF:-1,US_ABC HD
-http://188.165.242.189:8005/live/papa/papa/657.ts
-#EXTINF:-1,USA | ABC News HD
-http://188.165.242.189:8005/live/papa/papa/669.ts
-#EXTINF:-1,US_AMC HD
-http://188.165.242.189:8005/live/papa/papa/622.ts
-#EXTINF:-1,US_ANIMAL-PLANET HD
-http://188.165.242.189:8005/live/papa/papa/658.ts
-#EXTINF:-1,USA | ASTRO_SUPERSPORT_1
-http://188.165.242.189:8005/live/papa/papa/1937.ts
-#EXTINF:-1,USA | ASTRO_SUPERSPORT_2
-http://188.165.242.189:8005/live/papa/papa/1936.ts
-#EXTINF:-1,USA | ASTRO_SUPERSPORT_3
-http://188.165.242.189:8005/live/papa/papa/1935.ts
-#EXTINF:-1,USA | ASTRO_SUPERSPORT_4
-http://188.165.242.189:8005/live/papa/papa/1934.ts
-#EXTINF:-1,USA | BeIN SPORTS HD
-http://188.165.242.189:8005/live/papa/papa/621.ts
-#EXTINF:-1,USA | BLOOMBERG_HD
-http://188.165.242.189:8005/live/papa/papa/659.ts
-#EXTINF:-1,USA | CARTOON NETWORK HD
-http://188.165.242.189:8005/live/papa/papa/660.ts
-#EXTINF:-1,USA | CBS HD
-http://188.165.242.189:8005/live/papa/papa/635.ts
-#EXTINF:-1,USA | CBS_SPORTS_NET_HD
-http://188.165.242.189:8005/live/papa/papa/645.ts
-#EXTINF:-1,USA | CINEMA MOREMAX HD
-http://188.165.242.189:8005/live/papa/papa/608.ts
-#EXTINF:-1,USA | Cinemax HD
-http://188.165.242.189:8005/live/papa/papa/620.ts
-#EXTINF:-1,USA | CNBC HD
-http://188.165.242.189:8005/live/papa/papa/619.ts
-#EXTINF:-1,USA | CNN HD
-http://188.165.242.189:8005/live/papa/papa/634.ts
-#EXTINF:-1,USA | COMEDY CENTRAL HD
-http://188.165.242.189:8005/live/papa/papa/633.ts
-#EXTINF:-1,USA | CW HD
-http://188.165.242.189:8005/live/papa/papa/661.ts
-#EXTINF:-1,USA | DISCOVERY HD
-http://188.165.242.189:8005/live/papa/papa/618.ts
-#EXTINF:-1,USA | DISCOVERY SC. HD
-http://188.165.242.189:8005/live/papa/papa/662.ts
-#EXTINF:-1,USA | E! HD
-http://188.165.242.189:8005/live/papa/papa/663.ts
-#EXTINF:-1,USA | ESPN U HD
-http://188.165.242.189:8005/live/papa/papa/650.ts
-#EXTINF:-1,USA | ESPN USA
-http://188.165.242.189:8005/live/papa/papa/652.ts
-#EXTINF:-1,USA | ESPN_DEPORTES
-http://188.165.242.189:8005/live/papa/papa/670.ts
-#EXTINF:-1,USA | ESPN_HD2
-http://188.165.242.189:8005/live/papa/papa/651.ts
-#EXTINF:-1,USA | ESPN_News_HD
-http://188.165.242.189:8005/live/papa/papa/653.ts
-#EXTINF:-1,USA | FIGHT NETWORK
-http://188.165.242.189:8005/live/papa/papa/644.ts
-#EXTINF:-1,USA | FOX HD
-http://188.165.242.189:8005/live/papa/papa/632.ts
-#EXTINF:-1,USA | FOX News HD
-http://188.165.242.189:8005/live/papa/papa/617.ts
-#EXTINF:-1,USA | FOX SPORTS HD 1
-http://188.165.242.189:8005/live/papa/papa/649.ts
-#EXTINF:-1,USA | FOX SPORTS HD 2
-http://188.165.242.189:8005/live/papa/papa/648.ts
-#EXTINF:-1,USA | FOX SPORTS SUN
-http://188.165.242.189:8005/live/papa/papa/624.ts
-#EXTINF:-1,USA | FOX_SPORTS_HD
-http://188.165.242.189:8005/live/papa/papa/604.ts
-#EXTINF:-1,USA | FREEFORM HD
-http://188.165.242.189:8005/live/papa/papa/664.ts
-#EXTINF:-1,USA | FX HD
-http://188.165.242.189:8005/live/papa/papa/616.ts
-#EXTINF:-1,USA | FXX HD
-http://188.165.242.189:8005/live/papa/papa/615.ts
-#EXTINF:-1,USA | GOLF HD
-http://188.165.242.189:8005/live/papa/papa/643.ts
-#EXTINF:-1,USA | HBO COMEDY
-http://188.165.242.189:8005/live/papa/papa/614.ts
-#EXTINF:-1,USA | HBO HD
-http://188.165.242.189:8005/live/papa/papa/611.ts
-#EXTINF:-1,USA | HBO SIGNATURE
-http://188.165.242.189:8005/live/papa/papa/613.ts
-#EXTINF:-1,USA | HBO ZONE
-http://188.165.242.189:8005/live/papa/papa/612.ts
-#EXTINF:-1,USA | HGTV_HD
-http://188.165.242.189:8005/live/papa/papa/674.ts
-#EXTINF:-1,USA | HISTORY
-http://188.165.242.189:8005/live/papa/papa/610.ts
-#EXTINF:-1,USA | INVESTIGATION Discovery HD
-http://188.165.242.189:8005/live/papa/papa/609.ts
-#EXTINF:-1,USA | ION_TELEVISION
-http://188.165.242.189:8005/live/papa/papa/600.ts
-#EXTINF:-1,USA | MAX_EAST_MOVIES_HD
-http://188.165.242.189:8005/live/papa/papa/623.ts
-#EXTINF:-1,USA | MLB NET HD
-http://188.165.242.189:8005/live/papa/papa/601.ts
-#EXTINF:-1,USA | NAT GEO HD
-http://188.165.242.189:8005/live/papa/papa/654.ts
-#EXTINF:-1,USA | NBA HD
-http://188.165.242.189:8005/live/papa/papa/647.ts
-#EXTINF:-1,USA | NBC SPORT NET HD
-http://188.165.242.189:8005/live/papa/papa/631.ts
-#EXTINF:-1,USA | NBC Sports Network HD
-http://188.165.242.189:8005/live/papa/papa/642.ts
-#EXTINF:-1,USA | NBC_SPORTS
-http://188.165.242.189:8005/live/papa/papa/3658.ts
-#EXTINF:-1,USA | NBC_SPORTS_GOLD_1
-http://188.165.242.189:8005/live/papa/papa/3657.ts
-#EXTINF:-1,USA | NBC_SPORTS_GOLD_2
-http://188.165.242.189:8005/live/papa/papa/3656.ts
-#EXTINF:-1,USA | NBC_SPORTS_GOLD_3
-http://188.165.242.189:8005/live/papa/papa/3655.ts
-#EXTINF:-1,USA | NFL Channel HD
-http://188.165.242.189:8005/live/papa/papa/646.ts
-#EXTINF:-1,USA | NHL Net HD
-http://188.165.242.189:8005/live/papa/papa/641.ts
-#EXTINF:-1,USA | NICKLODEON HD
-http://188.165.242.189:8005/live/papa/papa/665.ts
-#EXTINF:-1,USA | PAC-12_ARIZONA_FHD
-http://188.165.242.189:8005/live/papa/papa/599.ts
-#EXTINF:-1,USA | PAC-12_BAY_AREA_FHD
-http://188.165.242.189:8005/live/papa/papa/598.ts
-#EXTINF:-1,USA | PAC-12_LOS_ANGELES_FHD
-http://188.165.242.189:8005/live/papa/papa/597.ts
-#EXTINF:-1,USA | PAC-12_MOUNTAIN_FHD
-http://188.165.242.189:8005/live/papa/papa/596.ts
-#EXTINF:-1,USA | PAC-12_NATIONAL_FHD
-http://188.165.242.189:8005/live/papa/papa/3461.ts
-#EXTINF:-1,USA | PAC-12_OREGON_FHD
-http://188.165.242.189:8005/live/papa/papa/595.ts
-#EXTINF:-1,USA | PAC-12_WASHINGTON_FHD
-http://188.165.242.189:8005/live/papa/papa/594.ts
-#EXTINF:-1,USA | SHOWTIME HD
-http://188.165.242.189:8005/live/papa/papa/606.ts
-#EXTINF:-1,USA | SPIKE HD
-http://188.165.242.189:8005/live/papa/papa/607.ts
-#EXTINF:-1,USA | SPORTS Net 360 HD
-http://188.165.242.189:8005/live/papa/papa/638.ts
-#EXTINF:-1,USA | SPORTS Net One HD
-http://188.165.242.189:8005/live/papa/papa/593.ts
-#EXTINF:-1,USA | SPORTS Net Ontario HD
-http://188.165.242.189:8005/live/papa/papa/637.ts
-#EXTINF:-1,USA | SPORTS Net West HD
-http://188.165.242.189:8005/live/papa/papa/592.ts
-#EXTINF:-1,USA | SPORTS Net World HD
-http://188.165.242.189:8005/live/papa/papa/636.ts
-#EXTINF:-1,USA | SPORTS ONE NET
-http://188.165.242.189:8005/live/papa/papa/630.ts
-#EXTINF:-1,USA | STARZ CINEMA HD
-http://188.165.242.189:8005/live/papa/papa/605.ts
-#EXTINF:-1,USA | STARZ_WEST
-http://188.165.242.189:8005/live/papa/papa/603.ts
-#EXTINF:-1,USA | SYFY HD
-http://188.165.242.189:8005/live/papa/papa/666.ts
-#EXTINF:-1,USA | TBS HD
-http://188.165.242.189:8005/live/papa/papa/655.ts
-#EXTINF:-1,USA | TLC_HD
-http://188.165.242.189:8005/live/papa/papa/671.ts
-#EXTINF:-1,USA | TNT HD
-http://188.165.242.189:8005/live/papa/papa/656.ts
-#EXTINF:-1,USA | TSN HD 1
-http://188.165.242.189:8005/live/papa/papa/629.ts
-#EXTINF:-1,USA | TSN HD 2
-http://188.165.242.189:8005/live/papa/papa/628.ts
-#EXTINF:-1,USA | TSN HD 3
-http://188.165.242.189:8005/live/papa/papa/627.ts
-#EXTINF:-1,USA | TSN HD 4
-http://188.165.242.189:8005/live/papa/papa/626.ts
-#EXTINF:-1,USA | TSN HD 5
-http://188.165.242.189:8005/live/papa/papa/625.ts
-#EXTINF:-1,USA | UNIVISION_DEPORTES
-http://188.165.242.189:8005/live/papa/papa/672.ts
-#EXTINF:-1,USA | USA NETWORK
-http://188.165.242.189:8005/live/papa/papa/602.ts
-#EXTINF:-1,USA | VICELAND
-http://188.165.242.189:8005/live/papa/papa/673.ts
-#EXTINF:-1,USA | WILLOW_Cricket_HD
-http://188.165.242.189:8005/live/papa/papa/667.ts
-#EXTINF:-1,USA | WWE NET HD
-http://188.165.242.189:8005/live/papa/papa/639.ts
-#EXTINF:-1,MLB_Extra_Innings_720
-http://188.165.242.189:8005/live/papa/papa/3701.ts
-#EXTINF:-1,MLB_Extra_Innings_721
-http://188.165.242.189:8005/live/papa/papa/3700.ts
-#EXTINF:-1,MLB_Extra_Innings_722
-http://188.165.242.189:8005/live/papa/papa/3699.ts
-#EXTINF:-1,MLB_Extra_Innings_723
-http://188.165.242.189:8005/live/papa/papa/3698.ts
-#EXTINF:-1,MLB_Extra_Innings_724
-http://188.165.242.189:8005/live/papa/papa/3697.ts
-#EXTINF:-1,MLB_Extra_Innings_725
-http://188.165.242.189:8005/live/papa/papa/3696.ts
-#EXTINF:-1,MLB_Extra_Innings_726
-http://188.165.242.189:8005/live/papa/papa/3695.ts
-#EXTINF:-1,MLB_Extra_Innings_727
-http://188.165.242.189:8005/live/papa/papa/3694.ts
-#EXTINF:-1,MLB_Extra_Innings_728
-http://188.165.242.189:8005/live/papa/papa/3693.ts
-#EXTINF:-1,MLB_Extra_Innings_729
-http://188.165.242.189:8005/live/papa/papa/3692.ts
-#EXTINF:-1,MLB_Extra_Innings_730
-http://188.165.242.189:8005/live/papa/papa/3691.ts
-#EXTINF:-1,MLB_Extra_Innings_731
-http://188.165.242.189:8005/live/papa/papa/3690.ts
-#EXTINF:-1,MLB_Extra_Innings_732
-http://188.165.242.189:8005/live/papa/papa/3689.ts
-#EXTINF:-1,MLB_Extra_Innings_733
-http://188.165.242.189:8005/live/papa/papa/3688.ts
-#EXTINF:-1,MLB_Extra_Innings_734
-http://188.165.242.189:8005/live/papa/papa/3687.ts
-#EXTINF:-1,MLB_Extra_Innings_735
-http://188.165.242.189:8005/live/papa/papa/3686.ts
-#EXTINF:-1,MLB_Extra_Innings_736
-http://188.165.242.189:8005/live/papa/papa/3685.ts
-#EXTINF:-1,MLB_Extra_Innings_737
-http://188.165.242.189:8005/live/papa/papa/3684.ts
-#EXTINF:-1,MLB_Extra_Innings_738
-http://188.165.242.189:8005/live/papa/papa/3683.ts
-#EXTINF:-1,MLB_Extra_Innings_739
-http://188.165.242.189:8005/live/papa/papa/3682.ts
-#EXTINF:-1,MLB_Extra_Innings_740
-http://188.165.242.189:8005/live/papa/papa/3681.ts
-#EXTINF:-1,MLB_Extra_Innings_741
-http://188.165.242.189:8005/live/papa/papa/3680.ts
-#EXTINF:-1,MLB_Extra_Innings_742
-http://188.165.242.189:8005/live/papa/papa/3679.ts
-#EXTINF:-1,MLB_Extra_Innings_743
-http://188.165.242.189:8005/live/papa/papa/3678.ts
-#EXTINF:-1,MLB_Extra_Innings_744
-http://188.165.242.189:8005/live/papa/papa/3677.ts
-#EXTINF:-1,MLB_Extra_Innings_745
-http://188.165.242.189:8005/live/papa/papa/3676.ts
-#EXTINF:-1,MLB_Extra_Innings_746
-http://188.165.242.189:8005/live/papa/papa/3675.ts
-#EXTINF:-1,MLB_Extra_Innings_747
-http://188.165.242.189:8005/live/papa/papa/3674.ts
-#EXTINF:-1,MLB_Extra_Innings_748
-http://188.165.242.189:8005/live/papa/papa/3673.ts
-#EXTINF:-1,MLB_Extra_Innings_749
-http://188.165.242.189:8005/live/papa/papa/3672.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_1_HD
-http://188.165.242.189:8005/live/papa/papa/3671.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_10_HD
-http://188.165.242.189:8005/live/papa/papa/3670.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_14_HD
-http://188.165.242.189:8005/live/papa/papa/3669.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_15_HD
-http://188.165.242.189:8005/live/papa/papa/3668.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_2_HD
-http://188.165.242.189:8005/live/papa/papa/3667.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_3_HD
-http://188.165.242.189:8005/live/papa/papa/3666.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_4_HD
-http://188.165.242.189:8005/live/papa/papa/3665.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_5_HD
-http://188.165.242.189:8005/live/papa/papa/3664.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_6_HD
-http://188.165.242.189:8005/live/papa/papa/3663.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_7_HD
-http://188.165.242.189:8005/live/papa/papa/3662.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_8_HD
-http://188.165.242.189:8005/live/papa/papa/3661.ts
-#EXTINF:-1,NBA_LEAGUE_PASS_LIVE_9_HD
-http://188.165.242.189:8005/live/papa/papa/3660.ts
-#EXTINF:-1,NFL SUNDAY TICKET 11 HD
-http://188.165.242.189:8005/live/papa/papa/4018.ts
-#EXTINF:-1,NFL SUNDAY TICKET 12 HD
-http://188.165.242.189:8005/live/papa/papa/4017.ts
-#EXTINF:-1,NFL SUNDAY TICKET 13 HD
-http://188.165.242.189:8005/live/papa/papa/4016.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_1_HD
-http://188.165.242.189:8005/live/papa/papa/4007.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_2_HD
-http://188.165.242.189:8005/live/papa/papa/4015.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_3_HD
-http://188.165.242.189:8005/live/papa/papa/4014.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_4_HD
-http://188.165.242.189:8005/live/papa/papa/4013.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_5_HD
-http://188.165.242.189:8005/live/papa/papa/4012.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_6_HD
-http://188.165.242.189:8005/live/papa/papa/4011.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_7_HD
-http://188.165.242.189:8005/live/papa/papa/4010.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_8_HD
-http://188.165.242.189:8005/live/papa/papa/4009.ts
-#EXTINF:-1,NFL_SUNDAY_TICKET_9_HD
-http://188.165.242.189:8005/live/papa/papa/4008.ts
-#EXTINF:-1,NHL_1_HD
-http://188.165.242.189:8005/live/papa/papa/3998.ts
-#EXTINF:-1,NHL_2_HD
-http://188.165.242.189:8005/live/papa/papa/4006.ts
-#EXTINF:-1,NHL_3_HD
-http://188.165.242.189:8005/live/papa/papa/4005.ts
-#EXTINF:-1,NHL_4_HD
-http://188.165.242.189:8005/live/papa/papa/4004.ts
-#EXTINF:-1,NHL_5_HD
-http://188.165.242.189:8005/live/papa/papa/4003.ts
-#EXTINF:-1,NHL_6_HD
-http://188.165.242.189:8005/live/papa/papa/4002.ts
-#EXTINF:-1,NHL_7_HD
-http://188.165.242.189:8005/live/papa/papa/4001.ts
-#EXTINF:-1,NHL_8_HD
-http://188.165.242.189:8005/live/papa/papa/4000.ts
-#EXTINF:-1,NHL_9_HD
-http://188.165.242.189:8005/live/papa/papa/3999.ts
-#EXTINF:-1,NHL_10_HD
-http://188.165.242.189:8005/live/papa/papa/3997.ts
-#EXTINF:-1,NHL_11_HD
-http://188.165.242.189:8005/live/papa/papa/3996.ts
-#EXTINF:-1,NHL_12_HD
-http://188.165.242.189:8005/live/papa/papa/3995.ts
-#EXTINF:-1,NHL_13_HD
-http://188.165.242.189:8005/live/papa/papa/3994.ts
-#EXTINF:-1,ALB: BIG BROTHER 1HD
-http://188.165.242.189:8005/live/papa/papa/1586.ts
-#EXTINF:-1,ALB: BIG BROTHER 2 HD
-http://188.165.242.189:8005/live/papa/papa/1585.ts
-#EXTINF:-1,ALB: MTV MUSIC
-http://188.165.242.189:8005/live/papa/papa/1587.ts
-#EXTINF:-1,ALB: PLUS HD
-http://188.165.242.189:8005/live/papa/papa/1568.ts
-#EXTINF:-1,ALB: SUPER SPORRT 2
-http://188.165.242.189:8005/live/papa/papa/1563.ts
-#EXTINF:-1,ALB: SUPER SPORRT 3
-http://188.165.242.189:8005/live/papa/papa/1564.ts
-#EXTINF:-1,ALB: SUPER SPORRT 5
-http://188.165.242.189:8005/live/papa/papa/1566.ts
-#EXTINF:-1,ALB: SUPER SPORTT 4
-http://188.165.242.189:8005/live/papa/papa/1565.ts
-#EXTINF:-1,ALB: T HD
-http://188.165.242.189:8005/live/papa/papa/1567.ts
-#EXTINF:-1,ALB: TIP TV
-http://188.165.242.189:8005/live/papa/papa/1569.ts
-#EXTINF:-1,ALB: TOP CHANNEL
-http://188.165.242.189:8005/live/papa/papa/1570.ts
-#EXTINF:-1,ALB: TOP NEWS
-http://188.165.242.189:8005/live/papa/papa/1571.ts
-#EXTINF:-1,ALB: TRING SMILE
-http://188.165.242.189:8005/live/papa/papa/1579.ts
-#EXTINF:-1,ALB: TRING SPORT NEWS
-http://188.165.242.189:8005/live/papa/papa/1581.ts
-#EXTINF:-1,ALB: TRING FANTASY
-http://188.165.242.189:8005/live/papa/papa/1572.ts
-#EXTINF:-1,ALB: TRING HISTORI
-http://188.165.242.189:8005/live/papa/papa/1573.ts
-#EXTINF:-1,ALB: TRING KOMEDI
-http://188.165.242.189:8005/live/papa/papa/1574.ts
-#EXTINF:-1,ALB: TRING LIFE
-http://188.165.242.189:8005/live/papa/papa/1575.ts
-#EXTINF:-1,ALB: TRING MAX
-http://188.165.242.189:8005/live/papa/papa/1576.ts
-#EXTINF:-1,ALB: TRING PLANET
-http://188.165.242.189:8005/live/papa/papa/1577.ts
-#EXTINF:-1,ALB: TRING SHQIP
-http://188.165.242.189:8005/live/papa/papa/1578.ts
-#EXTINF:-1,ALB: TRING SPORT1 HD
-http://188.165.242.189:8005/live/papa/papa/1580.ts
-#EXTINF:-1,ALB: TRING SUPER
-http://188.165.242.189:8005/live/papa/papa/1582.ts
-#EXTINF:-1,ALB: TRING TRING
-http://188.165.242.189:8005/live/papa/papa/1583.ts
-#EXTINF:-1,ALB: TRING WORLD
-http://188.165.242.189:8005/live/papa/papa/1584.ts
-#EXTINF:-1,ALB: VIZION
-http://188.165.242.189:8005/live/papa/papa/1588.ts
+#EXTINF:-1,USA: A & E
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14146.ts
+#EXTINF:-1,USA: A & E FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32944.ts
+#EXTINF:-1,USA: ABC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23336.ts
+#EXTINF:-1,USA: ABC EAST HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19330.ts
+#EXTINF:-1,USA: ABC NEWS HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19258.ts
+#EXTINF:-1,USA: ABC NY FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29891.ts
+#EXTINF:-1,USA: AL JAZEERA NEWS ENGLISH HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25312.ts
+#EXTINF:-1,USA: AMC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14144.ts
+#EXTINF:-1,USA: AMERICAN HEROES CHANNEL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22430.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14149.ts
+#EXTINF:-1,USA: ANTENNA TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29889.ts
+#EXTINF:-1,USA: BABY TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37562.ts
+#EXTINF:-1,USA: BBC AMERICA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25257.ts
+#EXTINF:-1,USA: BEIN SPORT USA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22417.ts
+#EXTINF:-1,USA: BET FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14089.ts
+#EXTINF:-1,USA: BET HER
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27923.ts
+#EXTINF:-1,USA: BIG TEN NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16493.ts
+#EXTINF:-1,USA: BLOOMBERG
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19960.ts
+#EXTINF:-1,USA: BOOMERANG
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20174.ts
+#EXTINF:-1,USA: BOUNCE TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20636.ts
+#EXTINF:-1,USA: BRAVO
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14179.ts
+#EXTINF:-1,USA: BUZZER
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/21772.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14103.ts
+#EXTINF:-1,USA: CARTOONITO ES
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19273.ts
+#EXTINF:-1,USA: CBS EAST
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32138.ts
+#EXTINF:-1,USA: CBS NY FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23369.ts
+#EXTINF:-1,USA: CBS SPORTS NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14104.ts
+#EXTINF:-1,USA: CBSN SPORTS NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19573.ts
+#EXTINF:-1,USA: CHICAGO WGN 9
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19968.ts
+#EXTINF:-1,USA: CINEMAX ACTION MAX EAST
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27039.ts
+#EXTINF:-1,USA: CINEMAX EAST
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/18439.ts
+#EXTINF:-1,USA: CINEMAX OUTER MAX
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27041.ts
+#EXTINF:-1,USA: CINEMAX THRILLERMAX HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19331.ts
+#EXTINF:-1,USA: CINEMAXX MORE MAXX
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16492.ts
+#EXTINF:-1,USA: CMT HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27294.ts
+#EXTINF:-1,USA: CNBC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/18378.ts
+#EXTINF:-1,USA: CNN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14141.ts
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14140.ts
+#EXTINF:-1,USA: COOKING CHANNEL HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19336.ts
+#EXTINF:-1,USA: COUNTRY NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23333.ts
+#EXTINF:-1,USA: COZI TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20868.ts
+#EXTINF:-1,USA: CRIME AND INVESTIGATION
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14161.ts
+#EXTINF:-1,USA: CSPAN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23909.ts
+#EXTINF:-1,USA: CW HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19963.ts
+#EXTINF:-1,USA: DESTINATION AMERICA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16491.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14158.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/28003.ts
+#EXTINF:-1,USA: DISCOVERY FAMILY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23337.ts
+#EXTINF:-1,USA: DISCOVERY LIFE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22414.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19262.ts
+#EXTINF:-1,USA: DISCOVERY VELOCITY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14153.ts
+#EXTINF:-1,USA: DISNEY CHANNEL HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19280.ts
+#EXTINF:-1,USA: DISNEY JNR
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14102.ts
+#EXTINF:-1,USA: DISNEY XD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14101.ts
+#EXTINF:-1,USA: DIY NETWORK HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19327.ts
+#EXTINF:-1,USA: DOG TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32122.ts
+#EXTINF:-1,USA: E!
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14175.ts
+#EXTINF:-1,USA: EL REY NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19584.ts
+#EXTINF:-1,USA: ELEVEN SPORTS HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19588.ts
+#EXTINF:-1,USA: EPIX 2
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20972.ts
+#EXTINF:-1,USA: EPIX HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19569.ts
+#EXTINF:-1,USA: EPIX HITS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37560.ts
+#EXTINF:-1,USA: ESPN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14124.ts
+#EXTINF:-1,USA: ESPN 2
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14123.ts
+#EXTINF:-1,USA: ESPN NEWS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32121.ts
+#EXTINF:-1,USA: ESPN U
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16490.ts
+#EXTINF:-1,USA: FOOD NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14174.ts
+#EXTINF:-1,USA: FOX 5 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/24489.ts
+#EXTINF:-1,USA: FOX 50
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19571.ts
+#EXTINF:-1,USA: FOX BUSINESS HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19334.ts
+#EXTINF:-1,USA: FOX DEPORTES
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23372.ts
+#EXTINF:-1,USA: FOX NEWS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14125.ts
+#EXTINF:-1,USA: FOX SPORTS 1
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14118.ts
+#EXTINF:-1,USA: FOX SPORTS 1 FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32931.ts
+#EXTINF:-1,USA: FOX SPORTS 2 NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14117.ts
+#EXTINF:-1,USA: FREEFORM HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19264.ts
+#EXTINF:-1,USA: FUSE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20874.ts
+#EXTINF:-1,USA: FUSION
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20877.ts
+#EXTINF:-1,USA: FX HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14172.ts
+#EXTINF:-1,USA: FXM
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16487.ts
+#EXTINF:-1,USA: FXM EAST SD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34327.ts
+#EXTINF:-1,USA: FXX
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14171.ts
+#EXTINF:-1,USA: FYI NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20878.ts
+#EXTINF:-1,USA: Fox College Atlantic
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20871.ts
+#EXTINF:-1,USA: Fox College Central
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20870.ts
+#EXTINF:-1,USA: Fox College Pacific
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20869.ts
+#EXTINF:-1,USA: Fox Soccer Plus
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20872.ts
+#EXTINF:-1,USA: GALAVISION
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23361.ts
+#EXTINF:-1,USA: GAME SHOW NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19335.ts
+#EXTINF:-1,USA: GOLF CHANNEL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/35417.ts
+#EXTINF:-1,USA: HALLMARK DRAMA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37561.ts
+#EXTINF:-1,USA: HALLMARK HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14064.ts
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19326.ts
+#EXTINF:-1,USA: HBO 2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/35525.ts
+#EXTINF:-1,USA: HBO COMEDY HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16486.ts
+#EXTINF:-1,USA: HBO FAMILY HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19272.ts
+#EXTINF:-1,USA: HBO HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/18429.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16485.ts
+#EXTINF:-1,USA: HBO ZONE HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/18428.ts
+#EXTINF:-1,USA: HEROS & ICONS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29890.ts
+#EXTINF:-1,USA: HGTV FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14169.ts
+#EXTINF:-1,USA: HGTV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32923.ts
+#EXTINF:-1,USA: HISTORY 2
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19338.ts
+#EXTINF:-1,USA: HISTORY CHANNEL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14159.ts
+#EXTINF:-1,USA: HISTORY CHANNEL FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32930.ts
+#EXTINF:-1,USA: HLN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19552.ts
+#EXTINF:-1,USA: HSN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29910.ts
+#EXTINF:-1,USA: IFC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30089.ts
+#EXTINF:-1,USA: INVESTIGATION DISCOVERY FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14167.ts
+#EXTINF:-1,USA: INVESTIGATION DISCOVERY HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/31091.ts
+#EXTINF:-1,USA: ION TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/26777.ts
+#EXTINF:-1,USA: LIFETIME
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14160.ts
+#EXTINF:-1,USA: LIFETIME MOVIES
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19591.ts
+#EXTINF:-1,USA: LONGHORN NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37563.ts
+#EXTINF:-1,USA: MAV TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/26778.ts
+#EXTINF:-1,USA: ME TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34893.ts
+#EXTINF:-1,USA: MGM HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37013.ts
+#EXTINF:-1,USA: MLB NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16513.ts
+#EXTINF:-1,USA: MOTORSPORT TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32701.ts
+#EXTINF:-1,USA: MSG
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19311.ts
+#EXTINF:-1,USA: MSG +
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20879.ts
+#EXTINF:-1,USA: MSNBC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23328.ts
+#EXTINF:-1,USA: MTV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14096.ts
+#EXTINF:-1,USA: MTV HITS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14092.ts
+#EXTINF:-1,USA: MTV LIVE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/21767.ts
+#EXTINF:-1,USA: MTV2
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30123.ts
+#EXTINF:-1,USA: MY 9
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32047.ts
+#EXTINF:-1,USA: NAT GEO USA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19530.ts
+#EXTINF:-1,USA: NAT GEO WILD HD US
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19555.ts
+#EXTINF:-1,USA: NBA TV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14122.ts
+#EXTINF:-1,USA: NBC 10 EAST
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19268.ts
+#EXTINF:-1,USA: NBC 4 NY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20880.ts
+#EXTINF:-1,USA: NBC 4 NY FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29448.ts
+#EXTINF:-1,USA: NBC 5
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37014.ts
+#EXTINF:-1,USA: NBC GOLF
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14121.ts
+#EXTINF:-1,USA: NBC SPORTS NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/26439.ts
+#EXTINF:-1,USA: NBC Sports Bay Area HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37045.ts
+#EXTINF:-1,USA: NBC Sports Boston HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37044.ts
+#EXTINF:-1,USA: NBC Sports California HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37297.ts
+#EXTINF:-1,USA: NBC Sports Chicago HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37042.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37041.ts
+#EXTINF:-1,USA: NBC Sports Northwest HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37040.ts
+#EXTINF:-1,USA: NBC Sports Philadelphia HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37039.ts
+#EXTINF:-1,USA: NBC UNIVERSO
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23362.ts
+#EXTINF:-1,USA: NESN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37010.ts
+#EXTINF:-1,USA: NEW ORLEANS TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23367.ts
+#EXTINF:-1,USA: NEWS 12 LONG ISLAND
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/31371.ts
+#EXTINF:-1,USA: NEWS 12 NEW JERSEY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/31370.ts
+#EXTINF:-1,USA: NFL NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14120.ts
+#EXTINF:-1,USA: NFL NOW
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19982.ts
+#EXTINF:-1,USA: NFL RED ZONE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14074.ts
+#EXTINF:-1,USA: NHL NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14119.ts
+#EXTINF:-1,USA: NICK HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14098.ts
+#EXTINF:-1,USA: NICK JR
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14100.ts
+#EXTINF:-1,USA: NICK JR.TOO
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14099.ts
+#EXTINF:-1,USA: NICKTOONS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14097.ts
+#EXTINF:-1,USA: OUTDOOR CHANNEL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22432.ts
+#EXTINF:-1,USA: OVATION
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37046.ts
+#EXTINF:-1,USA: OWN NETWORK FHD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14136.ts
+#EXTINF:-1,USA: OXYGEN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19585.ts
+#EXTINF:-1,USA: PAC 12 LOS ANGELES
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19536.ts
+#EXTINF:-1,USA: PAC 12 NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19535.ts
+#EXTINF:-1,USA: PAC-12 ARIZONA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19534.ts
+#EXTINF:-1,USA: PAC-12 BAY AREA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19533.ts
+#EXTINF:-1,USA: PAC-12 MOUNTAIN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19532.ts
+#EXTINF:-1,USA: PAC-12 OREGON
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19531.ts
+#EXTINF:-1,USA: PBS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14135.ts
+#EXTINF:-1,USA: PBS KIDS EAST
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/28116.ts
+#EXTINF:-1,USA: PBS WLIW 21
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32266.ts
+#EXTINF:-1,USA: POP
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20881.ts
+#EXTINF:-1,USA: QVC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/28265.ts
+#EXTINF:-1,USA: REVOLT
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/36719.ts
+#EXTINF:-1,USA: RT NEWS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19593.ts
+#EXTINF:-1,USA: SEC NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16483.ts
+#EXTINF:-1,USA: SHOWTIME EXTREME
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16482.ts
+#EXTINF:-1,USA: SHOWTIME FAMILY ZONE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19337.ts
+#EXTINF:-1,USA: SHOWTIME HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14127.ts
+#EXTINF:-1,USA: SPIKE/PARAMOUNT
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14166.ts
+#EXTINF:-1,USA: SPORTSMAN CHANNEL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32137.ts
+#EXTINF:-1,USA: SPORTSNET LA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/37609.ts
+#EXTINF:-1,USA: SPORTSNET NY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/28008.ts
+#EXTINF:-1,USA: STARZ
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16481.ts
+#EXTINF:-1,USA: STARZ COMEDY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25489.ts
+#EXTINF:-1,USA: STARZ ENCORE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/36272.ts
+#EXTINF:-1,USA: STARZ ENCORE WESTERNS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/35530.ts
+#EXTINF:-1,USA: STARZ KIDS & FAMILY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25255.ts
+#EXTINF:-1,USA: SUNDANCE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/21131.ts
+#EXTINF:-1,USA: SYFY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14164.ts
+#EXTINF:-1,USA: TBN Trinity Broadcasting Network
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30116.ts
+#EXTINF:-1,USA: TBS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14134.ts
+#EXTINF:-1,USA: TCM
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14163.ts
+#EXTINF:-1,USA: TELEMUNDO
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23368.ts
+#EXTINF:-1,USA: TELEMUNDO WEST
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/35529.ts
+#EXTINF:-1,USA: TENNIS HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20970.ts
+#EXTINF:-1,USA: THE WEATHER CHANNEL HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19328.ts
+#EXTINF:-1,USA: TLC CHANNEL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19772.ts
+#EXTINF:-1,USA: TNT
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14162.ts
+#EXTINF:-1,USA: TRAVEL CHANNEL
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/18500.ts
+#EXTINF:-1,USA: TRU TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/18368.ts
+#EXTINF:-1,USA: TUFF TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23334.ts
+#EXTINF:-1,USA: TV LAND HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19461.ts
+#EXTINF:-1,USA: TVONE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25258.ts
+#EXTINF:-1,USA: UNIMAS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23359.ts
+#EXTINF:-1,USA: UNIVERSAL HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19462.ts
+#EXTINF:-1,USA: UNIVERSAL KIDS HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19590.ts
+#EXTINF:-1,USA: UNIVISION
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23360.ts
+#EXTINF:-1,USA: UNIVISION TDN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/26441.ts
+#EXTINF:-1,USA: USA NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19270.ts
+#EXTINF:-1,USA: VH1 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14091.ts
+#EXTINF:-1,USA: VICELAND
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20883.ts
+#EXTINF:-1,USA: WE TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22431.ts
+#EXTINF:-1,USA: WGN AMERICA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27663.ts
+#EXTINF:-1,USA: WORLD FISHING NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
+#EXTINF:-1,USA: WPIX 11 NY
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29447.ts
+#EXTINF:-1,USA: WWE
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16514.ts
+#EXTINF:-1,USA: YES NETWORK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/16480.ts
